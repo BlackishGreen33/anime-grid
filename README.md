@@ -3,6 +3,7 @@
 * 本倉庫僅將原網頁進行翻譯
 
 ## 地址
+https://blackishgreen33.github.io/anime-grid/
 
 ## 類別
 * 最想安利
